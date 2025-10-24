@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+### I'm currently looking for a job as a software engineer, so reach out if you have any opportunities, check out my portfolio for examples of my work
+
+[rafiq.codes](https://www.rafiq.codes/)
 <!--
 **Hashim332/Hashim332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
